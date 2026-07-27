@@ -3,6 +3,11 @@
 <picture>
    <img alt="Logo for Owaiz20Ahamed" src="banner.png">
 </picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:3B82F6&height=280&section=header&text=Owaiz%20Ahamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20•%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:2563EB&height=280&section=header&text=Owaiz%20Ahamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20•%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:3B82F6&height=280&section=header&text=Owaiz%20Ahamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20•%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20"/>
+
 # Hey there, I'm Owaiz Ahamed 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student+%40+Presidency+University;Aspiring+Software+Engineer;AI%2FML+%26+Data+Analytics+Enthusiast;Python+%7C+Java+%7C+SQL+%7C+C%2B%2B;Building+Real-World+AI+%26+Full-Stack+Projects;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
