@@ -34,7 +34,7 @@
 
 <td width="65%" valign="top">
 
-### 👨‍💻 Who Am I?
+
 
 🎓 **B.Tech Computer Science Engineering** student at **Presidency University**
 
