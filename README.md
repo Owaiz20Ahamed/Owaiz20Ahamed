@@ -3,9 +3,6 @@
 <picture>
    <img alt="Logo for Owaiz20Ahamed" src="banner.png">
 </picture>
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:3B82F6&height=280&section=header&text=Owaiz%20Ahamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20•%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:2563EB&height=280&section=header&text=Owaiz%20Ahamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20•%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20">
@@ -189,7 +186,5 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:6C63FF&height=140&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:2563EB&height=140&section=footer">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:3B82F6&height=140&section=footer"/>
 </picture>
