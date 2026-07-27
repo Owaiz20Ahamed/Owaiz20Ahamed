@@ -9,18 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: Owaiz20Ahamed
-
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#C084FC&color_dots=#EBEDF0,#C6E48B,#7BC96F,#239A3B,#196127
+            dist/github-contribution-grid-snake.svg?color_snake=%23C084FC&color_dots=%23F3F4F6,%23BBF7D0,%2386EFAC,%234ADE80,%2316A34A
 
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#C084FC&color_dots=#2D333B,#0E4429,#006D32,#26A641,#39D353
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23D8B4FE&color_dots=%23343A46,%230E4429,%2326A641,%2339D353,%237EE787
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
