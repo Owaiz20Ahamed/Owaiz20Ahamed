@@ -16,9 +16,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Owaiz20Ahamed
+
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#C084FC&color_dots=#EBEDF0,#C6E48B,#7BC96F,#239A3B,#196127
+
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#C084FC&color_dots=#2D333B,#0E4429,#006D32,#26A641,#39D353
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
