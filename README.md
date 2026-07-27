@@ -2,7 +2,7 @@
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Owaiz20Ahamed" src="art/header-light.png">
+   <img alt="Logo for Owaiz20Ahamed" src="header-light.png">
 </picture>
 
 
